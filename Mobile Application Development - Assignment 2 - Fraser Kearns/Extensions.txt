@@ -1,0 +1,4 @@
+ - I implemented code that wraps the SpaceCraft around if it goes too far to the left or right.
+
+ - I created custom graphics for my application. The rocket is modelled after the rocket from Tintin goes 
+   to space and the landscape is cut from an actual image of Mars that I modified to tessellate more smoothly.

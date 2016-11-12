@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="left_button_text">Left Rocket</string>
+    <string name="right_button_text">Right Rocket</string>
+    <string name="up_button_text">Main Rocket</string>
+    <string name="fuel_string">Fuel:  </string>
+    <string name="play_again_button_text">Play Again</string>
+    <string name="exit_button_text">Exit</string>
+
+</resources>

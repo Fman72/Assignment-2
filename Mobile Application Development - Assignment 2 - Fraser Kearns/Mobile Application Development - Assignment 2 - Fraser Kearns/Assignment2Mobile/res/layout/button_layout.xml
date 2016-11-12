@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This layout file contains the layout for the buttons the user uses to control the rocket. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/left_button"
+        android:text = "@string/left_button_text"
+        style = "@style/button_style" >
+    </Button>
+
+    <Button
+        android:id="@+id/up_button"
+         android:text = "@string/up_button_text" 
+         style = "@style/button_style">
+    </Button>
+
+    <Button
+        android:id="@+id/right_button"
+         android:text = "@string/right_button_text"
+         style = "@style/button_style" >
+    </Button>
+
+</LinearLayout>
